@@ -4,6 +4,8 @@ This repo contains resume templates. These are simple resume templates built usi
 
 You can easily create multiple copies for different companies and send to recruiters(download as PDF `File->Download->PDF`)
 
+**Note:** While opening on phone, use print layout to see how it's going to look. Still Mobile view might have issues, so view on Desktop/Laptop or use `Desktop View` in mobile browser. Also see tips section
+
 ---
 ### Available Templates  
 - Senior Engineer - High Density - One Page: [link](https://docs.google.com/document/d/12VKwOvPnLgnE_zsFa1UYK3yZ30qsT9-k6uogBVpYLwc)  
@@ -32,7 +34,7 @@ Create a Copy of the tempate
 
 ---
 ### Tips
-- Always convert your Resume to PDF before sending out. Your Recruiter/interviewer might be using different softwares to view your CV and it might not render correctly for them.
+- Always convert your Resume to PDF before sending out. Your Recruiter/interviewer might be using different softwares to view your CV and it might not render correctly for them. Especially when opening on mobile devices.
 - Customize and send different resumes based on company and roles.
 
 ---
