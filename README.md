@@ -6,16 +6,29 @@ You can easily create multiple copies for different companies and send to recrui
 
 ---
 ### Available Templates  
-- [x] Senior Engineer - High Density: [link](https://docs.google.com/document/d/12VKwOvPnLgnE_zsFa1UYK3yZ30qsT9-k6uogBVpYLwc)  
-- [] Junior Engineer - Low Density   
-- [] Graduate  
+- Senior Engineer - High Density - One Page: [link](https://docs.google.com/document/d/12VKwOvPnLgnE_zsFa1UYK3yZ30qsT9-k6uogBVpYLwc)  
+- Junior Engineer - Low Density - One Page   [link](https://docs.google.com/document/d/1KidWo6_xZVes8d-NE9dlpD7jNMYrTHWAGZMKXIBVZV8)
+- Graduate  
 
 ---
-### How to Use
+### How to
 
+**Use**  
+Create a Copy of the tempate
 - Open one of the template links
 - File->Make a Copy
 - Edit your copy
+
+**Change the theme color**  
+- For each component having colors, select -> right click -> Edit -> Make changes 
+  or check the video
+- Suggested colors
+
+|   | Code  |
+|---|-------|
+| $\color{#EA4E4E}{⬤}$  |   #EA4E4E |
+| $\color{#4A86E8}{⬤}$  |   #4A86E8 |
+| $\color{#460094}{⬤}$  |   #460094 |
 
 ---
 ### Tips
@@ -36,5 +49,7 @@ We evaluate resumes by experience and density:
 - High density: Good for experienced folks
 
 ---
-### Wish to contribute
-Let us know !!
+### Have some suggestions
+Open an issue !!
+
+<span style="color:blue">some *blue* text</span>.
