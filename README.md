@@ -45,8 +45,8 @@ We evaluate resumes by experience and density:
 - Senior Senior ~8+ or 10+
 
 **Density**: The amount of details you wish to put in.  
-- Low density: Good for college grads, engineers with less experience
-- High density: Good for experienced folks
+- Low density: Good for college grads, engineers with less experience, too much experience, any experience if you with to be very specific and precise
+- High density: Good for experienced folks, if you wish to decribe things in more detail
 
 ---
 ### Have some suggestions
