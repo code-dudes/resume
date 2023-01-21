@@ -51,5 +51,3 @@ We evaluate resumes by experience and density:
 ---
 ### Have some suggestions
 Open an issue !!
-
-<span style="color:blue">some *blue* text</span>.
