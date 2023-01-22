@@ -11,7 +11,8 @@ You can easily create multiple copies for different companies and send to recrui
 - [Template 1](https://docs.google.com/document/d/12VKwOvPnLgnE_zsFa1UYK3yZ30qsT9-k6uogBVpYLwc): Senior Engineer - High Density - One Pager
 - [Template 2](https://docs.google.com/document/d/1wfkEG4Xyh24PpT_IQlOtC9ee_lfN_OPHIMgVauWIsuE): Senior Engineer - High Density - One Pager
 - [Template 3](https://docs.google.com/document/d/1W7rXRlcVjNUmGRlmOjBvzdrTv5u-0wH3JeWUnWVXWVo): Senior Engineer - High Density - One Pager - Two Column
-- [Template 4](https://docs.google.com/document/d/1KidWo6_xZVes8d-NE9dlpD7jNMYrTHWAGZMKXIBVZV8): Junior Engineer/Graduate - Low Density - One Pager
+- [Template 4](https://docs.google.com/document/d/1cKGKqau_Q0f_DiI7437XQz8KhNB51pQkkF1zWbj4e-0): Senior Engineer - High Density - One Pager - Two Column - Better Header
+- [Template 5](https://docs.google.com/document/d/1KidWo6_xZVes8d-NE9dlpD7jNMYrTHWAGZMKXIBVZV8): Junior Engineer/Graduate - Low Density - One Pager
 
 ---
 ### How to
