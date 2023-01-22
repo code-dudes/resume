@@ -10,7 +10,8 @@ You can easily create multiple copies for different companies and send to recrui
 ### Available Templates  
 - [Template 1](https://docs.google.com/document/d/12VKwOvPnLgnE_zsFa1UYK3yZ30qsT9-k6uogBVpYLwc): Senior Engineer - High Density - One Pager
 - [Template 2](https://docs.google.com/document/d/1wfkEG4Xyh24PpT_IQlOtC9ee_lfN_OPHIMgVauWIsuE): Senior Engineer - High Density - One Pager
-- [Template 3](https://docs.google.com/document/d/1KidWo6_xZVes8d-NE9dlpD7jNMYrTHWAGZMKXIBVZV8): Junior Engineer/Graduate - Low Density - One Pager
+- [Template 3](https://docs.google.com/document/d/1W7rXRlcVjNUmGRlmOjBvzdrTv5u-0wH3JeWUnWVXWVo): Senior Engineer - High Density - One Pager - Two Column
+- [Template 4](https://docs.google.com/document/d/1KidWo6_xZVes8d-NE9dlpD7jNMYrTHWAGZMKXIBVZV8): Junior Engineer/Graduate - Low Density - One Pager
 
 ---
 ### How to
@@ -49,6 +50,10 @@ We evaluate resumes by experience and density:
 **Density**: The amount of details you wish to put in.  
 - Low density: Good for college grads, engineers with less experience, too much experience, any experience if you with to be very specific and precise
 - High density: Good for experienced folks, if you wish to decribe things in more detail
+
+**Format**:
+- One column
+- Two column
 
 ---
 ### Have some suggestions
