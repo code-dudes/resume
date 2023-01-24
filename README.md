@@ -1,6 +1,10 @@
 # Resume
 
-This repo contains resume templates. These are simple resume templates built using Google Docs. These are easy to customize and use for anyone. No need to learn LaTeX (it's good, but takes time). 
+This repo contains resume templates. These are simple resume templates built using Google Docs. 
+- Easy to customize and use.
+- Simple: no need to learn LaTeX (LaTeX is great, but takes time to learn).
+- Your CV stored in Cloud(Goole Docs) 😛. 
+- Quickly convert to PDF to send to recuiters.
 
 You can easily create multiple copies for different companies and send to recruiters(download as PDF `File->Download->PDF`)
 
@@ -22,6 +26,8 @@ Create a Copy of the tempate
 - Open one of the template links
 - File->Make a Copy
 - Edit your copy
+
+- To create more sections with same formatting, copy and paste any existing section (header + separator line + content/bullets).
 
 **Change the theme color**  
 - For each component having colors, select -> right click -> Edit -> Make changes 
