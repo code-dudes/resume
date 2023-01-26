@@ -2,26 +2,30 @@
 
 This repo contains resume templates. These are simple resume templates built using Google Docs. 
 - Easy to customize and use.
-- Simple: no need to learn LaTeX (LaTeX is great, but takes time to learn).
-- Your CV stored in Cloud(Goole Docs) 😛. 
-- Quickly convert to PDF to send to recuiters.
-
-You can easily create multiple copies for different companies and send to recruiters(download as PDF `File->Download->PDF`)
+- Simple: no need to learn LaTeX (LaTeX is great, but takes initial time investment).
+- Access anywhere. Stored in Goole Docs ☁. 
 
 **Note:** While opening on phone, use print layout to see how it's going to look. Still Mobile view might have issues, so view on Desktop/Laptop or use `Desktop View` in mobile browser. Also see tips section
 
 ---
 ### Available Templates  
-- [Template 1](https://docs.google.com/document/d/12VKwOvPnLgnE_zsFa1UYK3yZ30qsT9-k6uogBVpYLwc): Senior Engineer - High Density - One Pager
-- [Template 2](https://docs.google.com/document/d/1wfkEG4Xyh24PpT_IQlOtC9ee_lfN_OPHIMgVauWIsuE): Senior Engineer - High Density - One Pager
-- [Template 3](https://docs.google.com/document/d/1W7rXRlcVjNUmGRlmOjBvzdrTv5u-0wH3JeWUnWVXWVo): Senior Engineer - High Density - One Pager - Two Column
-- [Template 4](https://docs.google.com/document/d/1cKGKqau_Q0f_DiI7437XQz8KhNB51pQkkF1zWbj4e-0): Senior Engineer - High Density - One Pager - Two Column - Better Header
-- [Template 5](https://docs.google.com/document/d/1KidWo6_xZVes8d-NE9dlpD7jNMYrTHWAGZMKXIBVZV8): Junior Engineer/Graduate - Low Density - One Pager
+
+|  |  |
+|--|--|
+|<img src="https://user-images.githubusercontent.com/35618518/214939636-bcd8aab0-77fc-4b63-a1a9-35ef0266fd57.png" width="400" height="564"> | [Template-1 Click to Open](https://docs.google.com/document/d/12VKwOvPnLgnE_zsFa1UYK3yZ30qsT9-k6uogBVpYLwc) |
+|<img src="https://user-images.githubusercontent.com/35618518/214940022-9326fb70-2e21-410d-bbbe-c7b8c646d3ab.png" width="400" height="564"> | [Template-2 Click to Open](https://docs.google.com/document/d/1wfkEG4Xyh24PpT_IQlOtC9ee_lfN_OPHIMgVauWIsuE) |
+|<img src="https://user-images.githubusercontent.com/35618518/214940502-126cb2bf-40ea-474c-9201-d173a10272c9.png" width="400" height="564"> | [Template-3 Click to Open](https://docs.google.com/document/d/1W7rXRlcVjNUmGRlmOjBvzdrTv5u-0wH3JeWUnWVXWVo) |
+|<img src="https://user-images.githubusercontent.com/35618518/214940801-02713e81-96bb-4d8c-b896-965914a73765.png" width="400" height="564"> | [Template-4 Click to Open](https://docs.google.com/document/d/1cKGKqau_Q0f_DiI7437XQz8KhNB51pQkkF1zWbj4e-0) |
+|<img src="https://user-images.githubusercontent.com/35618518/214941297-069a40f7-6763-454b-8a75-5df31733f6a1.png" width="400" height="564"> | [Template-5 Click to Open](https://docs.google.com/document/d/1yx-bhUF91xeq-mwlk2iAmU3pEUzkqeFKIuBlVT2gKjI) |
+|<img src="https://user-images.githubusercontent.com/35618518/214941512-8210432d-407a-4c33-9b7d-47e8196e7244.png" width="400" height="564"> | [Template-6 Click to Open](https://docs.google.com/document/d/1KidWo6_xZVes8d-NE9dlpD7jNMYrTHWAGZMKXIBVZV8) |
 
 ---
 ### How to
 
 **Use**  
+Convert to PDF (Prefer doing this before sending your CV to anyone) 
+- File->Download->PDF
+
 Create a Copy of the tempate
 - Open one of the template links
 - File->Make a Copy
@@ -40,29 +44,6 @@ Create a Copy of the tempate
 | $\color{#4A86E8}{⬤}$  |   #4A86E8 |
 | $\color{#460094}{⬤}$  |   #460094 |
 
----
-### Tips
-- Always convert your Resume to PDF before sending out. Your Recruiter/interviewer might be using different softwares to view your CV and it might not render correctly for them. Especially when opening on mobile devices.
-- Customize and send different resumes based on company and roles.
-
----
-### Categorization
-We evaluate resumes by experience and density:  
-**Experience**:  
-- Have you just graduated: 0 yrs
-- Junior: 1-3 yrs
-- Senior: 3-8 yrs
-- Senior Senior ~8+ or 10+
-
-**Density**: The amount of details you wish to put in.  
-- Low density: Good for college grads, engineers with less experience, too much experience, any experience if you with to be very specific and precise
-- High density: Good for experienced folks, if you wish to decribe things in more detail
-
-**Format**:
-- One column
-- Two column
-
----
 ### Have some suggestions
 Open an issue !!
 
