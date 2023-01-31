@@ -24,7 +24,7 @@ Start/Watch the repo for updates
 **Multi-Page Templates**  
 |  |  |
 |--|--|
-|<img src="https://user-images.githubusercontent.com/35618518/215624786-140dff56-1d2a-488a-977b-76f56d57c254.png" width="800" height="564"> | [Template-Long-1 Click to Open](https://docs.google.com/document/d/1EsQ8B6kjdKgIl80ItObIk414J84i3sSPCVVGPkQ4MPI) |
+|<img src="https://user-images.githubusercontent.com/35618518/215624786-140dff56-1d2a-488a-977b-76f56d57c254.png" width="800" height="500"> | [Template-Long-1 Click to Open](https://docs.google.com/document/d/1EsQ8B6kjdKgIl80ItObIk414J84i3sSPCVVGPkQ4MPI) |
 
 
 ---
@@ -50,7 +50,9 @@ Create a Copy of the tempate
 |---|-------|
 | $\color{#EA4E4E}{⬤}$  |   #EA4E4E |
 | $\color{#4A86E8}{⬤}$  |   #4A86E8 |
+| $\color{#19a15f}{⬤}$  |   #19a15f |
 | $\color{#460094}{⬤}$  |   #460094 |
+
 
 ### Have some suggestions
 Open an issue !!
