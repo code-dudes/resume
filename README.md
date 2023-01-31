@@ -5,11 +5,13 @@ This repo contains resume templates. These are simple resume templates built usi
 - Simple: no need to learn LaTeX (LaTeX is great, but takes initial time investment).
 - Access anywhere. Stored in Goole Docs ☁. 
 
-**Note:** While opening on phone, use print layout to see how it's going to look. Still Mobile view might have issues, so view on Desktop/Laptop or use `Desktop View` in mobile browser. Also see tips section
+**Note:** While opening on phone, use print layout to see how it's going to look. Still Mobile view might have issues, so view on Desktop/Laptop or use `Desktop View` in mobile browser. Also see tips section  
+Start/Watch the repo for updates
 
 ---
 ### Available Templates  
 
+**One Page Templates**  
 |  |  |
 |--|--|
 |<img src="https://user-images.githubusercontent.com/35618518/214939636-bcd8aab0-77fc-4b63-a1a9-35ef0266fd57.png" width="400" height="564"> | [Template-1 Click to Open](https://docs.google.com/document/d/12VKwOvPnLgnE_zsFa1UYK3yZ30qsT9-k6uogBVpYLwc) |
@@ -18,6 +20,12 @@ This repo contains resume templates. These are simple resume templates built usi
 |<img src="https://user-images.githubusercontent.com/35618518/214940801-02713e81-96bb-4d8c-b896-965914a73765.png" width="400" height="564"> | [Template-4 Click to Open](https://docs.google.com/document/d/1cKGKqau_Q0f_DiI7437XQz8KhNB51pQkkF1zWbj4e-0) |
 |<img src="https://user-images.githubusercontent.com/35618518/214941297-069a40f7-6763-454b-8a75-5df31733f6a1.png" width="400" height="564"> | [Template-5 Click to Open](https://docs.google.com/document/d/1yx-bhUF91xeq-mwlk2iAmU3pEUzkqeFKIuBlVT2gKjI) |
 |<img src="https://user-images.githubusercontent.com/35618518/214941512-8210432d-407a-4c33-9b7d-47e8196e7244.png" width="400" height="564"> | [Template-6 Click to Open](https://docs.google.com/document/d/1KidWo6_xZVes8d-NE9dlpD7jNMYrTHWAGZMKXIBVZV8) |
+
+**Multi-Page Templates**  
+|  |  |
+|--|--|
+|<img src="https://user-images.githubusercontent.com/35618518/215624786-140dff56-1d2a-488a-977b-76f56d57c254.png" width="800" height="564"> | [Template-Long-1 Click to Open](https://docs.google.com/document/d/1EsQ8B6kjdKgIl80ItObIk414J84i3sSPCVVGPkQ4MPI) |
+
 
 ---
 ### How to
