@@ -1,3 +1,5 @@
+# !!! This repo is now migrated to https://github.com/the-adhyapan/resume and no longer maintained.
+
 # Resume
 
 This repo contains resume templates. These are simple resume templates built using Google Docs. 
